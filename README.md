@@ -12,6 +12,14 @@ This repository contains a numerical investigation of the double pendulum. It ex
 1. **Non-Linear (Chaotic):** Solving the full Euler–Lagrange equations to visualize sensitivity to initial conditions.  
 2. **Linearized (Small Angle):** Deriving the equations of motion for small angles to find normal-mode frequencies (eigenvalues) and verifying them using Fast Fourier Transforms (FFT).
 
+## Demo
+
+<div align="center">
+  <img src="media/chaos.gif" alt="Double Pendulum Chaos" />
+  <br>
+  <em>Figure 1: Simulation of the chaotic regime showing the sensitivity to initial conditions.</em>
+</div>
+
 ## Repository Structure
 
 | File | Description |
